@@ -461,10 +461,6 @@ Please make sure your boards conform to these design rules.</description>
 <via x="14.224" y="18.161" extent="1-16" drill="0.5"/>
 <via x="6.604" y="19.431" extent="1-16" drill="0.5"/>
 <via x="5.207" y="18.161" extent="1-16" drill="0.5"/>
-<via x="14.097" y="5.08" extent="1-16" drill="0.6"/>
-<via x="14.351" y="10.16" extent="1-16" drill="0.6"/>
-<via x="14.351" y="12.7" extent="1-16" drill="0.6"/>
-<via x="14.351" y="15.24" extent="1-16" drill="0.6"/>
 </signal>
 <signal name="N$1">
 <contactref element="JP1" pad="9"/>
