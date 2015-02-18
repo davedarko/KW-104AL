@@ -60,6 +60,26 @@
 <wire x1="17.704" y1="0" x2="17.704" y2="25.39" width="0" layer="20"/>
 <wire x1="17.704" y1="25.39" x2="0" y2="25.39" width="0" layer="20"/>
 <wire x1="0" y1="25.39" x2="0" y2="0" width="0" layer="20"/>
+<text x="3.048" y="23.622" size="0.8128" layer="25" font="vector">GND</text>
+<text x="12.7" y="23.495" size="0.8128" layer="25" font="vector">GND</text>
+<text x="12.7" y="0.762" size="0.8128" layer="25" font="vector">GND</text>
+<text x="3.048" y="0.889" size="0.8128" layer="25" font="vector">GND</text>
+<text x="3.048" y="21.336" size="0.8128" layer="25" font="vector">H</text>
+<text x="3.048" y="18.796" size="0.8128" layer="25" font="vector">G</text>
+<text x="3.048" y="16.256" size="0.8128" layer="25" font="vector">F</text>
+<text x="3.048" y="13.716" size="0.8128" layer="25" font="vector">E</text>
+<text x="3.048" y="11.176" size="0.8128" layer="25" font="vector">D</text>
+<text x="3.048" y="8.636" size="0.8128" layer="25" font="vector">C</text>
+<text x="3.048" y="6.096" size="0.8128" layer="25" font="vector">B</text>
+<text x="3.048" y="3.556" size="0.8128" layer="25" font="vector">A</text>
+<text x="14.224" y="21.209" size="0.8128" layer="25" font="vector">P</text>
+<text x="14.224" y="18.669" size="0.8128" layer="25" font="vector">O</text>
+<text x="14.224" y="16.129" size="0.8128" layer="25" font="vector">N</text>
+<text x="14.224" y="13.589" size="0.8128" layer="25" font="vector">M</text>
+<text x="14.224" y="11.049" size="0.8128" layer="25" font="vector">L</text>
+<text x="14.224" y="8.509" size="0.8128" layer="25" font="vector">K</text>
+<text x="14.224" y="5.969" size="0.8128" layer="25" font="vector">J</text>
+<text x="14.224" y="3.429" size="0.8128" layer="25" font="vector">I</text>
 </plain>
 <libraries>
 <library name="KW-104AL">
